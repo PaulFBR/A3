@@ -1,0 +1,12 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Executar Sistema Academia",
+      "request": "launch",
+      "mainClass": "main.Main",
+      "vmArgs": "-cp bin;lib/mysql-connector-j-9.3.0.jar"
+    }
+  ]
+}
